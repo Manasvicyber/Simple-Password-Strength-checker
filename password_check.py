@@ -14,3 +14,6 @@ def check_password_strength(password):
 
 user_password = input("Enter a password to test: ")
 print(check_password_strength(user_password))
+
+
+input("\Press Enter to exit...")
